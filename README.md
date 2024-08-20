@@ -29,14 +29,14 @@ To run this project, you need to install the dependencies using npm or yarn. The
 ## Usage
 To use the bot, you need to set the Telegram token in the .env file. Then, you can run the bot and it will be online. Then, you can send a message to the bot and it will send a message to the group that you set.
 
-# Roadmap
+## Roadmap
 A list of features that will be added in the future :
 
 - [ ] Bot can detect text message that has custom emoji and GIF
 - [ ] Bot can detect text message that has specific keyword
 - [ ] Bot can detect text message that has specific hash tag
 
-### How to Contribute
+## How to Contribute
 1. Clone the repository by running `git clone https://github.com/OdeArdika/Broadcast-Telegram-Bot.git`
 2. Create new branch by running `git branch <your_branch_name>`
 3. Make your changes and commit them by running `git commit -m '<your_commit_message>'`
